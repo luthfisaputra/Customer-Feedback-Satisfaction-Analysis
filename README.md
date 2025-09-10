@@ -42,6 +42,6 @@ Proyek ini juga memiliki dashboard di Looker Studio yang menampilkan:
 - Segmentasi kepuasan berdasarkan **Age & Income**  
 - Tren frekuensi pembelian dan hubungannya dengan kepuasan  
 
-*Link Dasboard https://lookerstudio.google.com/reporting/74e2d822-d086-41c6-a44e-e41bf8f67913*
+*[Link Dasboard](https://lookerstudio.google.com/reporting/74e2d822-d086-41c6-a44e-e41bf8f67913)*
 
 ---
